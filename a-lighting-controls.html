@@ -46,7 +46,7 @@
       update();
     });
     document.querySelector("#previous").addEventListener("click", () => {
-      x = (x - 1 + presets.length) % presets.length;
+      currentIndex = (currentIndex - 1 + presets.length) % presets.length;
       update();
     });
     update();
