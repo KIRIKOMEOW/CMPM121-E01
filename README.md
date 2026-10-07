@@ -14,3 +14,4 @@ inside the HTML file.
 
 The work brief, checks, and submission instructions are in the CMPM 121 E01
 Canvas exercise, not in this repository.
+Collaboration test
